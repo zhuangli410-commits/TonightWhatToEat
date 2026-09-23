@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Android-React_%2B_Capacitor-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-
 # 今晚吃什么 · WhatToEatTonight
 
-**治选择困难：报上食材、身体状况和厨具，AI 替你决定。**
+治吃饭选择困难。报上食材、身体状况和厨具，AI 决定今晚吃什么。
 
-7 家主流大模型随你挑，Key 攥在自己手里、请求直连官方端点 —— 不经过任何中间服务器。
+七家模型的 Key 自己填，请求直连官方端点。
 
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -114,5 +112,5 @@ MIT
 ---
 
 <div align="center">
-<sub>由 <b>李卓扬 · Aktive</b> 构建 · <a href="https://github.com/zhuangli410-commits">更多项目</a> · <a href="https://li-zhuoyang-ai-product-builder.zhuangli410.chatgpt.site">完整作品集</a></sub>
+<sub><a href="https://github.com/zhuangli410-commits">李卓扬 Aktive</a> · <a href="https://li-zhuoyang-ai-product-builder.zhuangli410.chatgpt.site">作品集</a> · 有想知道的事，<a href="https://gongfu.youjixiezuo.top/#ask">问 SG Agent</a></sub>
 </div>
