@@ -1,4 +1,19 @@
-# 今晚吃什么 · AI 智能菜谱推荐 (Android)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Android-React_%2B_Capacitor-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+
+# 今晚吃什么 · WhatToEatTonight
+
+**治选择困难：报上食材、身体状况和厨具，AI 替你决定。**
+
+7 家主流大模型随你挑，Key 攥在自己手里、请求直连官方端点 —— 不经过任何中间服务器。
+
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor_6-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square&logo=opensourceinitiative&logoColor=white)
+
+</div>
 
 [English](#english) | [中文](#中文)
 
@@ -95,3 +110,9 @@ APK output: `android/app/build/outputs/apk/debug/app-debug.apk`
 ## License
 
 MIT
+
+---
+
+<div align="center">
+<sub>由 <b>李卓扬 · Aktive</b> 构建 · <a href="https://github.com/zhuangli410-commits">更多项目</a> · <a href="https://li-zhuoyang-ai-product-builder.zhuangli410.chatgpt.site">完整作品集</a></sub>
+</div>
